@@ -1,0 +1,15 @@
+table,tr,td{
+    border:1 px solid black;
+}
+
+td {
+    text-align: center;
+    width: 30px;
+}
+
+.bgBlue {
+    background-color: lightblue;
+}
+console.error{
+    color : red;
+}
