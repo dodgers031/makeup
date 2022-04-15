@@ -1,7 +1,6 @@
-table,tr,td{
-    border:1 px solid black;
-}
-
+table, th, td {
+    border: 1px solid;
+  }
 td {
     text-align: center;
     width: 30px;
@@ -9,7 +8,4 @@ td {
 
 .bgBlue {
     background-color: lightblue;
-}
-console.error{
-    color : red;
 }

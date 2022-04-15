@@ -110,7 +110,7 @@ const playerList = [
   
   //    For each player object, generate a random number between 5 to 15 (number of tests)
   
-  //    Iterate through the number of pitchess, adding a value to the scores array between 90 and 100.
+  //    Iterate through the number of pitches, adding a value to the scores array between 90 and 100.
   
    
 playerList.forEach(player => {
@@ -230,5 +230,3 @@ playerList.forEach(player => {
   })
 
   //   //----------------------------------------------------------------//
-  
-//   //PART IV - Filter an Array using console.log()
