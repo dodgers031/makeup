@@ -123,7 +123,7 @@ playerList.forEach(player => {
   
    
   
-  //You could use the following to test the updated employee list:
+  //You could use the following to test the updated player list:
   
   console.log(playerList);
   
