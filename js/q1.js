@@ -35,12 +35,12 @@ const sq5ormult5 = (j) => {
 //Create table
 const tbElement = document.createElement('table');
 
-
 // Loop to create rows
 for (let i = num1; i <= num2; i++) {
     const rowElement = document.createElement("tr");
     const tdElement = document.createElement("td");
     const td1Element = document.createElement("td");
+    
     //Input numbers into table
     tdElement.innerText = i;
     td1Element.innerText = sq5ormult5(i);
